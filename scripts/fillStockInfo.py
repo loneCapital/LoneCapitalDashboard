@@ -1,8 +1,6 @@
 # -*- coding:utf-8 -*-
 
-import requests
 import pandas as pd
-import bs4 as bs
 import yfinance as yf
 import time
 import boto3

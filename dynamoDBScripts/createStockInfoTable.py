@@ -1,4 +1,3 @@
-from pprint import pprint
 import boto3
 
 TABLE_NAME = 'stock_info'
